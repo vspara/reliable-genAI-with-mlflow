@@ -1,4 +1,4 @@
 mlflow
-shap
-matplotlib
 ipykernel
+langchain[openai]
+langchain-community
