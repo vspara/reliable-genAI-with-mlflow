@@ -1,3 +1,4 @@
+pypdf
 mlflow
 ipykernel
 langchain[openai]
