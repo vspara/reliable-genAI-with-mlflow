@@ -1,5 +1,0 @@
-pypdf
-mlflow
-ipykernel
-langchain[openai]
-langchain-community

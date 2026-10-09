@@ -1,0 +1,14 @@
+[project]
+name = "reliable-genai-with-mlflow"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain[openai]>=1.4.4",
+    "mlflow>=3.17.0",
+    "openai>=3.26.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+]
