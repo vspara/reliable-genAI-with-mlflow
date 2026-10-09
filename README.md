@@ -1,5 +1,5 @@
-# fun-with-mlflow
+# reliable-genAI-with-mlflow
 
 1. clone the repo
-2. follow the workshop
-3. have fun!
+2. uv sync
+3. follow the notebooks!
